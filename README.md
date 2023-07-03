@@ -1,4 +1,5 @@
-- ### Hi there 👋
+<--### Hi there 👋-->
+![](https://github-readme-stats.vercel.app/api?username=LuoFengXiaoXiao)
 <div align="center">
   
   <!-- dynamic typing effect 动态打字效果 -->
@@ -7,7 +8,8 @@
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);每天进步一点点！！！!&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
-![](https://github-readme-stats.vercel.app/api?username=LuoFengXiaoXiao)
+  
+
 
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" /> </div>
 <!--
