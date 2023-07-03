@@ -18,7 +18,7 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?/wakatime?username=LuoFengXiaoXiao&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
+    srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LuoFengXiaoXiao/wakatimeusername=LuoFengXiaoXiao&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
