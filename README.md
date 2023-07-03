@@ -37,6 +37,8 @@
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuoFengXiaoXiao&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=LuoFengXiaoXiao" /> </div>
 
 <!--
