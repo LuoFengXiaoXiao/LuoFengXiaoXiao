@@ -7,7 +7,11 @@
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);每天进步一点点！！！!&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
-  
+
+  <!-- knock code pictures 敲代码的图片 -->
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
+
+![](https://github-readme-stats.vercel.app/api?username=LuoFengXiaoXiao)
 
 <!-- wakatime 统计 -->
 ### 📊 WakaTime
@@ -28,7 +32,7 @@
 
 <tr><td>
 
-![](https://github-readme-stats.vercel.app/api?username=LuoFengXiaoXiao)
+
 
 
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" /> </div>
