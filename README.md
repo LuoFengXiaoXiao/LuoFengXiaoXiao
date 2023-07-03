@@ -1,7 +1,6 @@
 <!--### Hi there 👋-->
-![](https://github-readme-stats.vercel.app/api?username=LuoFengXiaoXiao)
+
 <div align="center">
-  
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="">
@@ -9,7 +8,7 @@
     </a>
   </div>
   
-
+![](https://github-readme-stats.vercel.app/api?username=LuoFengXiaoXiao)
 
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" /> </div>
 <!--
