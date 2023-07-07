@@ -37,6 +37,14 @@
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
 
+<h3 id ="stats">Github Stats👋</h3>
+
+<p>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuoFengXiaoXiao&theme=vue"/>
+<img height=150 src="https://github-readme-stats.vercel.app/api?username=LuoFengXiaoXiao&show_icons=true&count_private=true&theme=vue">
+<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuoFengXiaoXiao&layout=compact&theme=vue&hide=html,javascript">
+<p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuoFengXiaoXiao&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=LuoFengXiaoXiao" /> </div-->
